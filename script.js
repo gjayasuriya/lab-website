@@ -1,0 +1,1 @@
+console.log("Lab website loaded successfully");
